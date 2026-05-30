@@ -73,7 +73,7 @@ export default function Navbar() {
           </button>
 
           <a href="/" style={logo}>
-            RedditX
+            PostPilot
           </a>
         </div>
 
